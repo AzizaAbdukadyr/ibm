@@ -1,2 +1,2 @@
 # ibm
-course: create repositore
+course: create repository
